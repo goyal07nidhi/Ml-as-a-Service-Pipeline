@@ -1,0 +1,4 @@
+flask
+tensorflow==2.2
+tensorflow_text
+boto3
